@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
 .status {
+    font-family: 'Tilt Warp', cursive;
     color: #F9F4EB;
     text-align: center;
     padding: 20px;
+}
+
+.board-row {
+    text-align: center;
+    height: auto;
 }

@@ -1,8 +1,10 @@
-.square {
-   padding: 20px;    
-}
 
 body {
     background-color: #292A31;
-    
 }
+
+.square {
+    width: 50px;
+    height: 50px;    
+ }
+
